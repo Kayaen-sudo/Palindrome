@@ -1,0 +1,35 @@
+body{
+	padding-top:10px;
+	background-color: rgb(212, 129, 201);
+	justify-content: center;
+	padding:100px 600px;
+	
+}
+
+h2{
+
+
+    color:white;
+}
+
+
+label {
+	display:block;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+} 
+
+input {
+	display:block;
+} 
+
+input[type=button], input[type=submit], input[type=reset] {
+	background-color: #db16aa;
+	text-decoration: none;
+	margin: 4px 2px;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	cursor: pointer;
+  }
